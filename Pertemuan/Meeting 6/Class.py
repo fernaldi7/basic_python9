@@ -6,10 +6,10 @@ class mentee():
     umur = "Default"
     nim = "Default"
 
-    def __init__(self, input_nama, umur, nim):
-        self.nama = input_nama
-        self.umur = input_umur
-        self.nim = input_nim
+    # def __init__(self, input_nama, umur, nim):
+    #     self.nama = input_nama
+    #     self.umur = input_umur
+    #     self.nim = input_nim
 
     # def belajar(self):
     #     print(self.nama, "sedang belajar")
