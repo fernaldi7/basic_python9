@@ -3,7 +3,7 @@ import imghdr
 from email.message import EmailMessage
 
 sender = 'fernaldigradiyanto7@gmail.com'
-password = 'qzoxkiazzqnskzvn'
+password = 'rahasia'
 
 subject = 'Ini Kucingku, Mana Kucingmu?'
 body_message = 'Kenalin kucing saya yang SWAG, namanya Tobi dan Dono, berikut foto mereka'
